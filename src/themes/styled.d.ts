@@ -5,17 +5,20 @@ declare module "styled-components" {
         title: string;
 
         colors: {
-            footer: string,
-            background: string,
-            lText: string,
-            sText: string,
+            footer: string
+            background: string
+            lText: string
+            sText: string
+            accent: string
         },
         fSize: {
-            xxl: string,
-            xl: string,
-            l: string,
-            m: string,
-            s: string,
+            xxl: string
+            xl: string
+            lm: string
+            ls: string
+            l: string
+            m: string
+            s: string
         }
 
     }

@@ -3,15 +3,18 @@ export default {
 
     colors: {
         footer: "#483434",
-        background:  "#FFF3E4",
-        lText: "#1c1c1c",
-        sText: "#1f1f1f",
+        background:  "#e1e1e1",
+        lText: "#131315",
+        sText: "#646464",
+        accent: "#E05D5D",
     },
 
     fSize: {
-        xxl: "5.3rem",
+        xxl: "4.5rem",
         xl: "2.6rem",
-        l: "1.125px",
+        lm: "2.2rem",
+        ls: "1.5rem",
+        l: "1.125rem",
         m: "1rem",
         s: ".75rem",
     }

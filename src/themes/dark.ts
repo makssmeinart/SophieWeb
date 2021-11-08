@@ -9,9 +9,10 @@ export default {
     },
 
     fSize: {
-        xxl: "5.3rem",
+        xxl: "4.5rem",
         xl: "2.6rem",
-        l: "1.125px",
+        ls: "1.5rem",
+        l: "1.125rem",
         m: "1rem",
         s: ".75rem",
     }

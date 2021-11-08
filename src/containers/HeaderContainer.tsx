@@ -1,3 +1,17 @@
-export const HeaderContainer = () => {
-    return <div></div>
+import {Header} from "../components/header/Header";
+
+
+
+
+type HeaderContainerPropsType = {}
+
+export const HeaderContainer = ({}: HeaderContainerPropsType) => {
+
+
+    return (
+        <>
+            <Header
+            />
+        </>
+    )
 }
